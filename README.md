@@ -23,7 +23,8 @@ Thu thập dữ liệu khuôn mặt để huấn luyện vì vậy để có d�
 B2:
 Sau khi thu thập đầy đủ ta tiến đên bước tạo model cho chương trình bằng model_tao.py 
 
- Với chương trình này tôi có thể tạo model và lưu nó lại sau đó show hình ảnh biểu đồ độ chính xác và sai số trong quá trình train
+Với chương trình này tôi có thể tạo model và lưu nó lại sau đó show hình ảnh biểu đồ độ chính xác và sai số trong quá trình train
+ 
 B3:
 Sau khi tạo model xong ta đến bước test thực nghiệm qua chương trình test.py dùng bằng cam
 
